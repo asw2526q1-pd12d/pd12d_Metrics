@@ -7,18 +7,18 @@
         "cristiansanchezvidales": "https://avatars.githubusercontent.com/u/95310952?v=4"
     },
     "commits": {
-        "andreagil5647": 37,
+        "andreagil5647": 42,
         "arebull": 8,
-        "arnaucaballe": 9,
+        "arnaucaballe": 11,
         "cristiansanchezvidales": 0,
         "anonymous": 2,
-        "total": 56
+        "total": 63
     },
     "modified_lines": {
         "andreagil5647": {
-            "additions": 39310,
-            "deletions": 1612,
-            "modified": 40922
+            "additions": 39670,
+            "deletions": 1665,
+            "modified": 41335
         },
         "arebull": {
             "additions": 7816,
@@ -26,9 +26,9 @@
             "modified": 11448
         },
         "arnaucaballe": {
-            "additions": 661,
-            "deletions": 35,
-            "modified": 696
+            "additions": 834,
+            "deletions": 66,
+            "modified": 900
         },
         "cristiansanchezvidales": {
             "additions": 0,
@@ -36,31 +36,31 @@
             "modified": 0
         },
         "total": {
-            "additions": 47787,
-            "deletions": 5279,
-            "modified": 53066
+            "additions": 48320,
+            "deletions": 5363,
+            "modified": 53683
         }
     },
     "commit_streak": {
         "andreagil5647": 2,
         "arebull": 0,
-        "arnaucaballe": 1,
+        "arnaucaballe": 2,
         "cristiansanchezvidales": 0
     },
     "commit_merges": 24,
     "longest_commit_streak_per_user": {
         "andreagil5647": 2,
         "arebull": 2,
-        "arnaucaballe": 1,
+        "arnaucaballe": 2,
         "cristiansanchezvidales": 0
     },
     "issues": {
         "assigned": {
             "andreagil5647": 11,
             "arebull": 2,
-            "arnaucaballe": 3,
+            "arnaucaballe": 4,
             "cristiansanchezvidales": 2,
-            "non_assigned": 49
+            "non_assigned": 48
         },
         "closed": {
             "andreagil5647": 8,

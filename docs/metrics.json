@@ -56,21 +56,21 @@
     },
     "issues": {
         "assigned": {
-            "andreagil5647": 7,
+            "andreagil5647": 8,
             "arebull": 2,
             "arnaucaballe": 3,
             "cristiansanchezvidales": 2,
-            "non_assigned": 53
+            "non_assigned": 52
         },
         "closed": {
-            "andreagil5647": 4,
+            "andreagil5647": 5,
             "arebull": 2,
             "arnaucaballe": 3,
             "cristiansanchezvidales": 2
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 12,
+        "total_closed": 13,
         "total": 67
     },
     "project": {
@@ -263,11 +263,11 @@
             },
             "no_iteration": {
                 "assigned_per_member": {
-                    "andreagil5647": 2,
+                    "andreagil5647": 3,
                     "arebull": 2,
                     "arnaucaballe": 3,
                     "cristiansanchezvidales": 2,
-                    "non_assigned": 32
+                    "non_assigned": 31
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -294,7 +294,7 @@
                     "cristiansanchezvidales": 0
                 },
                 "done_per_member": {
-                    "andreagil5647": 2,
+                    "andreagil5647": 3,
                     "arebull": 2,
                     "arnaucaballe": 3,
                     "cristiansanchezvidales": 2
@@ -303,7 +303,7 @@
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 9,
+                "done": 10,
                 "total_issues": 54,
                 "total_issues_with_type": 41,
                 "total_features": 0,
@@ -318,11 +318,11 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "andreagil5647": 4,
+                    "andreagil5647": 5,
                     "arebull": 2,
                     "arnaucaballe": 3,
                     "cristiansanchezvidales": 2,
-                    "non_assigned": 32
+                    "non_assigned": 31
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -349,7 +349,7 @@
                     "cristiansanchezvidales": 0
                 },
                 "done_per_member": {
-                    "andreagil5647": 4,
+                    "andreagil5647": 5,
                     "arebull": 2,
                     "arnaucaballe": 3,
                     "cristiansanchezvidales": 2
@@ -358,7 +358,7 @@
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 11,
+                "done": 12,
                 "total_issues": 67,
                 "total_issues_with_type": 54,
                 "total_features": 11,

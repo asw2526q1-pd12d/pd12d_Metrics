@@ -56,11 +56,11 @@
     },
     "issues": {
         "assigned": {
-            "andreagil5647": 9,
+            "andreagil5647": 10,
             "arebull": 2,
             "arnaucaballe": 3,
             "cristiansanchezvidales": 2,
-            "non_assigned": 51
+            "non_assigned": 50
         },
         "closed": {
             "andreagil5647": 6,
@@ -263,11 +263,11 @@
             },
             "no_iteration": {
                 "assigned_per_member": {
-                    "andreagil5647": 4,
+                    "andreagil5647": 5,
                     "arebull": 2,
                     "arnaucaballe": 3,
                     "cristiansanchezvidales": 2,
-                    "non_assigned": 30
+                    "non_assigned": 29
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -318,11 +318,11 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "andreagil5647": 6,
+                    "andreagil5647": 7,
                     "arebull": 2,
                     "arnaucaballe": 3,
                     "cristiansanchezvidales": 2,
-                    "non_assigned": 30
+                    "non_assigned": 29
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,

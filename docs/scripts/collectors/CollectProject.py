@@ -43,7 +43,7 @@ class CollectProject(CollectorBase):
             total_bugs = 0
             for draftIssue in issues:
                 total +=1
-                status = draftIssue['status'].strip().lower().replace(" ", "_")
+                status = (draftIssue.get('status') or '').strip().lower().replace(" ", "_")
                 if draftIssue['item_type'] == 'Issue':
                     total_issues +=1
                     if draftIssue['issue_type'] != None:
@@ -108,7 +108,7 @@ class CollectProject(CollectorBase):
         total_bugs = 0
         for _,draftIssue in draftIssues.items():
             total +=1
-            status = draftIssue['status'].strip().lower().replace(" ", "_")
+            status = (draftIssue.get('status') or '').strip().lower().replace(" ", "_")
             if draftIssue['item_type'] == 'Issue':
                 total_issues +=1
                 if draftIssue['issue_type'] != None:

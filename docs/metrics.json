@@ -9,10 +9,10 @@
     "commits": {
         "andreagil5647": 45,
         "arebull": 8,
-        "arnaucaballe": 11,
+        "arnaucaballe": 13,
         "cristiansanchezvidales": 0,
         "anonymous": 2,
-        "total": 66
+        "total": 68
     },
     "modified_lines": {
         "andreagil5647": {
@@ -26,9 +26,9 @@
             "modified": 11448
         },
         "arnaucaballe": {
-            "additions": 834,
-            "deletions": 66,
-            "modified": 900
+            "additions": 947,
+            "deletions": 107,
+            "modified": 1054
         },
         "cristiansanchezvidales": {
             "additions": 0,
@@ -36,22 +36,22 @@
             "modified": 0
         },
         "total": {
-            "additions": 48347,
-            "deletions": 5372,
-            "modified": 53719
+            "additions": 48460,
+            "deletions": 5413,
+            "modified": 53873
         }
     },
     "commit_streak": {
         "andreagil5647": 2,
         "arebull": 0,
-        "arnaucaballe": 2,
+        "arnaucaballe": 3,
         "cristiansanchezvidales": 0
     },
-    "commit_merges": 29,
+    "commit_merges": 30,
     "longest_commit_streak_per_user": {
         "andreagil5647": 2,
         "arebull": 2,
-        "arnaucaballe": 2,
+        "arnaucaballe": 3,
         "cristiansanchezvidales": 0
     },
     "issues": {
@@ -65,12 +65,12 @@
         "closed": {
             "andreagil5647": 8,
             "arebull": 2,
-            "arnaucaballe": 3,
+            "arnaucaballe": 4,
             "cristiansanchezvidales": 2
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 16,
+        "total_closed": 17,
         "total": 67
     },
     "project": {
@@ -377,18 +377,18 @@
         "created": {
             "andreagil5647": 26,
             "arebull": 0,
-            "arnaucaballe": 1,
+            "arnaucaballe": 2,
             "cristiansanchezvidales": 0
         },
         "merged_per_member": {
             "andreagil5647": 26,
             "arebull": 0,
-            "arnaucaballe": 1,
+            "arnaucaballe": 2,
             "cristiansanchezvidales": 0
         },
-        "merged": 27,
+        "merged": 28,
         "not_merged_by_author": 2,
         "closed": 0,
-        "total": 27
+        "total": 28
     }
 }

@@ -9,5 +9,6 @@
         "carlesf"
     ],
     "excluded_repos": [
+        "pd12d_Metrics"
     ]
 }

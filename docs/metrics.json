@@ -8,11 +8,11 @@
     },
     "commits": {
         "andreagil5647": 47,
-        "arebull": 6,
+        "arebull": 7,
         "arnaucaballe": 23,
         "cristiansanchezvidales": 0,
         "anonymous": 1,
-        "total": 77
+        "total": 78
     },
     "modified_lines": {
         "andreagil5647": {
@@ -21,9 +21,9 @@
             "modified": 41386
         },
         "arebull": {
-            "additions": 3693,
-            "deletions": 3638,
-            "modified": 7331
+            "additions": 3821,
+            "deletions": 3664,
+            "modified": 7485
         },
         "arnaucaballe": {
             "additions": 1326,
@@ -36,9 +36,9 @@
             "modified": 0
         },
         "total": {
-            "additions": 44722,
-            "deletions": 5537,
-            "modified": 50259
+            "additions": 44850,
+            "deletions": 5563,
+            "modified": 50413
         }
     },
     "commit_streak": {
@@ -47,7 +47,7 @@
         "arnaucaballe": 3,
         "cristiansanchezvidales": 0
     },
-    "commit_merges": 48,
+    "commit_merges": 51,
     "longest_commit_streak_per_user": {
         "andreagil5647": 3,
         "arebull": 2,
@@ -63,14 +63,14 @@
             "non_assigned": 47
         },
         "closed": {
-            "andreagil5647": 9,
+            "andreagil5647": 10,
             "arebull": 2,
             "arnaucaballe": 5,
             "cristiansanchezvidales": 2
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 35,
+        "total_closed": 36,
         "total": 67
     },
     "project": {
@@ -98,11 +98,11 @@
         "metrics_by_iteration": {
             "Iteration 1": {
                 "assigned_per_member": {
-                    "andreagil5647": 8,
+                    "andreagil5647": 9,
                     "arebull": 2,
                     "arnaucaballe": 4,
                     "cristiansanchezvidales": 2,
-                    "non_assigned": 28
+                    "non_assigned": 29
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -129,7 +129,7 @@
                     "cristiansanchezvidales": 0
                 },
                 "done_per_member": {
-                    "andreagil5647": 8,
+                    "andreagil5647": 9,
                     "arebull": 2,
                     "arnaucaballe": 4,
                     "cristiansanchezvidales": 2
@@ -138,11 +138,11 @@
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 29,
+                "done": 30,
                 "total_issues": 67,
-                "total_issues_with_type": 55,
+                "total_issues_with_type": 57,
                 "total_features": 11,
-                "total_tasks": 44,
+                "total_tasks": 46,
                 "total_bugs": 0,
                 "total_features_backlog": 4,
                 "total_features_ready": 0,
@@ -318,11 +318,11 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "andreagil5647": 8,
+                    "andreagil5647": 9,
                     "arebull": 2,
                     "arnaucaballe": 4,
                     "cristiansanchezvidales": 2,
-                    "non_assigned": 28
+                    "non_assigned": 29
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -349,7 +349,7 @@
                     "cristiansanchezvidales": 0
                 },
                 "done_per_member": {
-                    "andreagil5647": 8,
+                    "andreagil5647": 9,
                     "arebull": 2,
                     "arnaucaballe": 4,
                     "cristiansanchezvidales": 2
@@ -358,11 +358,11 @@
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 29,
+                "done": 30,
                 "total_issues": 67,
-                "total_issues_with_type": 55,
+                "total_issues_with_type": 57,
                 "total_features": 11,
-                "total_tasks": 44,
+                "total_tasks": 46,
                 "total_bugs": 0,
                 "total_features_backlog": 4,
                 "total_features_ready": 0,
@@ -375,20 +375,20 @@
     },
     "pull_requests": {
         "created": {
-            "andreagil5647": 28,
-            "arebull": 2,
+            "andreagil5647": 29,
+            "arebull": 4,
             "arnaucaballe": 17,
             "cristiansanchezvidales": 0
         },
         "merged_per_member": {
-            "andreagil5647": 31,
+            "andreagil5647": 32,
             "arebull": 3,
-            "arnaucaballe": 12,
+            "arnaucaballe": 14,
             "cristiansanchezvidales": 0
         },
-        "merged": 46,
-        "not_merged_by_author": 11,
+        "merged": 49,
+        "not_merged_by_author": 14,
         "closed": 1,
-        "total": 47
+        "total": 50
     }
 }

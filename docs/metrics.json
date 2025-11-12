@@ -8,11 +8,11 @@
     },
     "commits": {
         "andreagil5647": 47,
-        "arebull": 5,
+        "arebull": 6,
         "arnaucaballe": 23,
         "cristiansanchezvidales": 0,
         "anonymous": 1,
-        "total": 76
+        "total": 77
     },
     "modified_lines": {
         "andreagil5647": {
@@ -21,9 +21,9 @@
             "modified": 41386
         },
         "arebull": {
-            "additions": 3672,
-            "deletions": 3630,
-            "modified": 7302
+            "additions": 3693,
+            "deletions": 3638,
+            "modified": 7331
         },
         "arnaucaballe": {
             "additions": 1326,
@@ -36,18 +36,18 @@
             "modified": 0
         },
         "total": {
-            "additions": 44701,
-            "deletions": 5529,
-            "modified": 50230
+            "additions": 44722,
+            "deletions": 5537,
+            "modified": 50259
         }
     },
     "commit_streak": {
         "andreagil5647": 0,
-        "arebull": 0,
+        "arebull": 1,
         "arnaucaballe": 3,
         "cristiansanchezvidales": 0
     },
-    "commit_merges": 46,
+    "commit_merges": 47,
     "longest_commit_streak_per_user": {
         "andreagil5647": 3,
         "arebull": 2,
@@ -376,19 +376,19 @@
     "pull_requests": {
         "created": {
             "andreagil5647": 28,
-            "arebull": 0,
+            "arebull": 2,
             "arnaucaballe": 17,
             "cristiansanchezvidales": 0
         },
         "merged_per_member": {
             "andreagil5647": 31,
-            "arebull": 1,
+            "arebull": 2,
             "arnaucaballe": 12,
             "cristiansanchezvidales": 0
         },
-        "merged": 44,
-        "not_merged_by_author": 10,
+        "merged": 45,
+        "not_merged_by_author": 11,
         "closed": 0,
-        "total": 45
+        "total": 47
     }
 }

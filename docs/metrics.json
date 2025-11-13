@@ -58,19 +58,19 @@
         "assigned": {
             "andreagil5647": 19,
             "arebull": 9,
-            "arnaucaballe": 5,
+            "arnaucaballe": 6,
             "cristiansanchezvidales": 3,
-            "non_assigned": 41
+            "non_assigned": 40
         },
         "closed": {
             "andreagil5647": 19,
             "arebull": 9,
-            "arnaucaballe": 5,
+            "arnaucaballe": 6,
             "cristiansanchezvidales": 3
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 54,
+        "total_closed": 55,
         "total": 77
     },
     "project": {
@@ -100,9 +100,9 @@
                 "assigned_per_member": {
                     "andreagil5647": 13,
                     "arebull": 2,
-                    "arnaucaballe": 4,
+                    "arnaucaballe": 5,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 25
+                    "non_assigned": 24
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -320,9 +320,9 @@
                 "assigned_per_member": {
                     "andreagil5647": 13,
                     "arebull": 3,
-                    "arnaucaballe": 4,
+                    "arnaucaballe": 5,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 25
+                    "non_assigned": 24
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,

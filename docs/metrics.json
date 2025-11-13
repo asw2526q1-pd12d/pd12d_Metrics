@@ -70,7 +70,7 @@
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 39,
+        "total_closed": 40,
         "total": 77
     },
     "project": {
@@ -376,7 +376,7 @@
     "pull_requests": {
         "created": {
             "andreagil5647": 29,
-            "arebull": 4,
+            "arebull": 5,
             "arnaucaballe": 17,
             "cristiansanchezvidales": 0
         },
@@ -389,6 +389,6 @@
         "merged": 49,
         "not_merged_by_author": 14,
         "closed": 1,
-        "total": 50
+        "total": 51
     }
 }

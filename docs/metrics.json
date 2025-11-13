@@ -56,16 +56,16 @@
     },
     "issues": {
         "assigned": {
-            "andreagil5647": 35,
+            "andreagil5647": 36,
             "arebull": 10,
-            "arnaucaballe": 17,
+            "arnaucaballe": 18,
             "cristiansanchezvidales": 3,
-            "non_assigned": 12
+            "non_assigned": 10
         },
         "closed": {
-            "andreagil5647": 35,
+            "andreagil5647": 36,
             "arebull": 10,
-            "arnaucaballe": 17,
+            "arnaucaballe": 18,
             "cristiansanchezvidales": 3
         },
         "have_pull_request": 0,
@@ -100,9 +100,9 @@
                 "assigned_per_member": {
                     "andreagil5647": 23,
                     "arebull": 2,
-                    "arnaucaballe": 14,
+                    "arnaucaballe": 15,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 5
+                    "non_assigned": 4
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -131,7 +131,7 @@
                 "done_per_member": {
                     "andreagil5647": 23,
                     "arebull": 2,
-                    "arnaucaballe": 14,
+                    "arnaucaballe": 15,
                     "cristiansanchezvidales": 3
                 },
                 "backlog": 0,
@@ -320,9 +320,9 @@
                 "assigned_per_member": {
                     "andreagil5647": 23,
                     "arebull": 3,
-                    "arnaucaballe": 14,
+                    "arnaucaballe": 15,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 5
+                    "non_assigned": 4
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -351,7 +351,7 @@
                 "done_per_member": {
                     "andreagil5647": 23,
                     "arebull": 3,
-                    "arnaucaballe": 14,
+                    "arnaucaballe": 15,
                     "cristiansanchezvidales": 3
                 },
                 "backlog": 0,

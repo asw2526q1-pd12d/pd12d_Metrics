@@ -56,14 +56,14 @@
     },
     "issues": {
         "assigned": {
-            "andreagil5647": 32,
+            "andreagil5647": 33,
             "arebull": 9,
             "arnaucaballe": 17,
             "cristiansanchezvidales": 3,
-            "non_assigned": 16
+            "non_assigned": 15
         },
         "closed": {
-            "andreagil5647": 32,
+            "andreagil5647": 33,
             "arebull": 9,
             "arnaucaballe": 17,
             "cristiansanchezvidales": 3
@@ -98,11 +98,11 @@
         "metrics_by_iteration": {
             "Iteration 1": {
                 "assigned_per_member": {
-                    "andreagil5647": 20,
+                    "andreagil5647": 22,
                     "arebull": 2,
                     "arnaucaballe": 14,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 8
+                    "non_assigned": 6
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -129,7 +129,7 @@
                     "cristiansanchezvidales": 0
                 },
                 "done_per_member": {
-                    "andreagil5647": 20,
+                    "andreagil5647": 22,
                     "arebull": 2,
                     "arnaucaballe": 14,
                     "cristiansanchezvidales": 3
@@ -318,11 +318,11 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "andreagil5647": 20,
+                    "andreagil5647": 22,
                     "arebull": 3,
                     "arnaucaballe": 14,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 8
+                    "non_assigned": 6
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -349,7 +349,7 @@
                     "cristiansanchezvidales": 0
                 },
                 "done_per_member": {
-                    "andreagil5647": 20,
+                    "andreagil5647": 22,
                     "arebull": 3,
                     "arnaucaballe": 14,
                     "cristiansanchezvidales": 3

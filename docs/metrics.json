@@ -7,18 +7,18 @@
         "cristiansanchezvidales": "https://avatars.githubusercontent.com/u/95310952?v=4"
     },
     "commits": {
-        "andreagil5647": 47,
+        "andreagil5647": 48,
         "arebull": 14,
         "arnaucaballe": 23,
         "cristiansanchezvidales": 1,
         "anonymous": 1,
-        "total": 86
+        "total": 87
     },
     "modified_lines": {
         "andreagil5647": {
-            "additions": 39703,
-            "deletions": 1683,
-            "modified": 41386
+            "additions": 39709,
+            "deletions": 1731,
+            "modified": 41440
         },
         "arebull": {
             "additions": 3993,
@@ -36,13 +36,13 @@
             "modified": 54
         },
         "total": {
-            "additions": 45070,
-            "deletions": 5638,
-            "modified": 50708
+            "additions": 45076,
+            "deletions": 5686,
+            "modified": 50762
         }
     },
     "commit_streak": {
-        "andreagil5647": 0,
+        "andreagil5647": 1,
         "arebull": 2,
         "arnaucaballe": 3,
         "cristiansanchezvidales": 1

@@ -378,7 +378,7 @@
             "andreagil5647": 29,
             "arebull": 12,
             "arnaucaballe": 17,
-            "cristiansanchezvidales": 0
+            "cristiansanchezvidales": 1
         },
         "merged_per_member": {
             "andreagil5647": 33,
@@ -389,6 +389,6 @@
         "merged": 57,
         "not_merged_by_author": 18,
         "closed": 1,
-        "total": 58
+        "total": 59
     }
 }

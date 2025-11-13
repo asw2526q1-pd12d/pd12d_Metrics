@@ -8,11 +8,11 @@
     },
     "commits": {
         "andreagil5647": 47,
-        "arebull": 11,
+        "arebull": 12,
         "arnaucaballe": 23,
         "cristiansanchezvidales": 0,
         "anonymous": 1,
-        "total": 82
+        "total": 83
     },
     "modified_lines": {
         "andreagil5647": {
@@ -21,9 +21,9 @@
             "modified": 41386
         },
         "arebull": {
-            "additions": 3890,
-            "deletions": 3701,
-            "modified": 7591
+            "additions": 3958,
+            "deletions": 3713,
+            "modified": 7671
         },
         "arnaucaballe": {
             "additions": 1326,
@@ -36,9 +36,9 @@
             "modified": 0
         },
         "total": {
-            "additions": 44919,
-            "deletions": 5600,
-            "modified": 50519
+            "additions": 44987,
+            "deletions": 5612,
+            "modified": 50599
         }
     },
     "commit_streak": {
@@ -47,7 +47,7 @@
         "arnaucaballe": 3,
         "cristiansanchezvidales": 0
     },
-    "commit_merges": 52,
+    "commit_merges": 55,
     "longest_commit_streak_per_user": {
         "andreagil5647": 3,
         "arebull": 2,
@@ -64,13 +64,13 @@
         },
         "closed": {
             "andreagil5647": 11,
-            "arebull": 8,
+            "arebull": 9,
             "arnaucaballe": 5,
             "cristiansanchezvidales": 2
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 43,
+        "total_closed": 44,
         "total": 77
     },
     "project": {
@@ -376,19 +376,19 @@
     "pull_requests": {
         "created": {
             "andreagil5647": 29,
-            "arebull": 7,
+            "arebull": 8,
             "arnaucaballe": 17,
             "cristiansanchezvidales": 0
         },
         "merged_per_member": {
-            "andreagil5647": 32,
+            "andreagil5647": 33,
             "arebull": 4,
-            "arnaucaballe": 14,
+            "arnaucaballe": 16,
             "cristiansanchezvidales": 0
         },
-        "merged": 50,
-        "not_merged_by_author": 14,
+        "merged": 53,
+        "not_merged_by_author": 17,
         "closed": 1,
-        "total": 53
+        "total": 54
     }
 }

@@ -10,9 +10,9 @@
         "andreagil5647": 48,
         "arebull": 14,
         "arnaucaballe": 23,
-        "cristiansanchezvidales": 1,
+        "cristiansanchezvidales": 2,
         "anonymous": 1,
-        "total": 87
+        "total": 88
     },
     "modified_lines": {
         "andreagil5647": {
@@ -31,14 +31,14 @@
             "modified": 1542
         },
         "cristiansanchezvidales": {
-            "additions": 48,
-            "deletions": 6,
-            "modified": 54
+            "additions": 103,
+            "deletions": 20,
+            "modified": 123
         },
         "total": {
-            "additions": 45076,
-            "deletions": 5686,
-            "modified": 50762
+            "additions": 45131,
+            "deletions": 5700,
+            "modified": 50831
         }
     },
     "commit_streak": {
@@ -47,7 +47,7 @@
         "arnaucaballe": 3,
         "cristiansanchezvidales": 1
     },
-    "commit_merges": 60,
+    "commit_merges": 62,
     "longest_commit_streak_per_user": {
         "andreagil5647": 3,
         "arebull": 2,
@@ -378,17 +378,17 @@
             "andreagil5647": 29,
             "arebull": 12,
             "arnaucaballe": 17,
-            "cristiansanchezvidales": 1
+            "cristiansanchezvidales": 4
         },
         "merged_per_member": {
             "andreagil5647": 33,
-            "arebull": 7,
+            "arebull": 9,
             "arnaucaballe": 17,
             "cristiansanchezvidales": 1
         },
-        "merged": 58,
-        "not_merged_by_author": 18,
+        "merged": 60,
+        "not_merged_by_author": 20,
         "closed": 1,
-        "total": 59
+        "total": 62
     }
 }

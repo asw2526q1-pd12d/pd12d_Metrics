@@ -58,14 +58,14 @@
         "assigned": {
             "andreagil5647": 30,
             "arebull": 9,
-            "arnaucaballe": 15,
+            "arnaucaballe": 17,
             "cristiansanchezvidales": 3,
-            "non_assigned": 20
+            "non_assigned": 18
         },
         "closed": {
             "andreagil5647": 30,
             "arebull": 9,
-            "arnaucaballe": 15,
+            "arnaucaballe": 17,
             "cristiansanchezvidales": 3
         },
         "have_pull_request": 0,
@@ -100,9 +100,9 @@
                 "assigned_per_member": {
                     "andreagil5647": 19,
                     "arebull": 2,
-                    "arnaucaballe": 12,
+                    "arnaucaballe": 14,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 11
+                    "non_assigned": 9
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -131,7 +131,7 @@
                 "done_per_member": {
                     "andreagil5647": 19,
                     "arebull": 2,
-                    "arnaucaballe": 12,
+                    "arnaucaballe": 14,
                     "cristiansanchezvidales": 3
                 },
                 "backlog": 0,
@@ -320,9 +320,9 @@
                 "assigned_per_member": {
                     "andreagil5647": 19,
                     "arebull": 3,
-                    "arnaucaballe": 12,
+                    "arnaucaballe": 14,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 11
+                    "non_assigned": 9
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -351,7 +351,7 @@
                 "done_per_member": {
                     "andreagil5647": 19,
                     "arebull": 3,
-                    "arnaucaballe": 12,
+                    "arnaucaballe": 14,
                     "cristiansanchezvidales": 3
                 },
                 "backlog": 0,

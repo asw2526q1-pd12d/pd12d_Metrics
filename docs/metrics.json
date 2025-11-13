@@ -58,14 +58,14 @@
         "assigned": {
             "andreagil5647": 23,
             "arebull": 9,
-            "arnaucaballe": 10,
+            "arnaucaballe": 12,
             "cristiansanchezvidales": 3,
-            "non_assigned": 32
+            "non_assigned": 30
         },
         "closed": {
             "andreagil5647": 23,
             "arebull": 9,
-            "arnaucaballe": 10,
+            "arnaucaballe": 12,
             "cristiansanchezvidales": 3
         },
         "have_pull_request": 0,
@@ -100,9 +100,9 @@
                 "assigned_per_member": {
                     "andreagil5647": 16,
                     "arebull": 2,
-                    "arnaucaballe": 9,
+                    "arnaucaballe": 11,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 17
+                    "non_assigned": 15
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -131,7 +131,7 @@
                 "done_per_member": {
                     "andreagil5647": 16,
                     "arebull": 2,
-                    "arnaucaballe": 9,
+                    "arnaucaballe": 11,
                     "cristiansanchezvidales": 3
                 },
                 "backlog": 0,
@@ -320,9 +320,9 @@
                 "assigned_per_member": {
                     "andreagil5647": 16,
                     "arebull": 3,
-                    "arnaucaballe": 9,
+                    "arnaucaballe": 11,
                     "cristiansanchezvidales": 3,
-                    "non_assigned": 17
+                    "non_assigned": 15
                 },
                 "backlog_per_member": {
                     "andreagil5647": 0,
@@ -351,7 +351,7 @@
                 "done_per_member": {
                     "andreagil5647": 16,
                     "arebull": 3,
-                    "arnaucaballe": 9,
+                    "arnaucaballe": 11,
                     "cristiansanchezvidales": 3
                 },
                 "backlog": 0,

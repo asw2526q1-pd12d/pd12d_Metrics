@@ -57,20 +57,20 @@
     "issues": {
         "assigned": {
             "andreagil5647": 11,
-            "arebull": 5,
+            "arebull": 6,
             "arnaucaballe": 5,
             "cristiansanchezvidales": 3,
-            "non_assigned": 53
+            "non_assigned": 52
         },
         "closed": {
             "andreagil5647": 11,
-            "arebull": 5,
+            "arebull": 6,
             "arnaucaballe": 5,
             "cristiansanchezvidales": 2
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 41,
+        "total_closed": 42,
         "total": 77
     },
     "project": {

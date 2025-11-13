@@ -131,14 +131,14 @@
                 "done_per_member": {
                     "andreagil5647": 13,
                     "arebull": 2,
-                    "arnaucaballe": 4,
+                    "arnaucaballe": 5,
                     "cristiansanchezvidales": 3
                 },
                 "backlog": 0,
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 35,
+                "done": 36,
                 "total_issues": 69,
                 "total_issues_with_type": 58,
                 "total_features": 11,
@@ -351,14 +351,14 @@
                 "done_per_member": {
                     "andreagil5647": 13,
                     "arebull": 3,
-                    "arnaucaballe": 4,
+                    "arnaucaballe": 5,
                     "cristiansanchezvidales": 3
                 },
                 "backlog": 0,
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 36,
+                "done": 37,
                 "total_issues": 77,
                 "total_issues_with_type": 59,
                 "total_features": 11,

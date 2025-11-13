@@ -66,11 +66,11 @@
             "andreagil5647": 16,
             "arebull": 9,
             "arnaucaballe": 5,
-            "cristiansanchezvidales": 2
+            "cristiansanchezvidales": 3
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 50,
+        "total_closed": 51,
         "total": 77
     },
     "project": {
@@ -114,7 +114,7 @@
                     "andreagil5647": 0,
                     "arebull": 0,
                     "arnaucaballe": 0,
-                    "cristiansanchezvidales": 1
+                    "cristiansanchezvidales": 0
                 },
                 "in_progress_per_member": {
                     "andreagil5647": 0,
@@ -132,13 +132,13 @@
                     "andreagil5647": 10,
                     "arebull": 2,
                     "arnaucaballe": 4,
-                    "cristiansanchezvidales": 2
+                    "cristiansanchezvidales": 3
                 },
                 "backlog": 0,
-                "ready": 1,
+                "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 31,
+                "done": 32,
                 "total_issues": 69,
                 "total_issues_with_type": 58,
                 "total_features": 11,
@@ -334,7 +334,7 @@
                     "andreagil5647": 0,
                     "arebull": 0,
                     "arnaucaballe": 0,
-                    "cristiansanchezvidales": 1
+                    "cristiansanchezvidales": 0
                 },
                 "in_progress_per_member": {
                     "andreagil5647": 0,
@@ -352,13 +352,13 @@
                     "andreagil5647": 10,
                     "arebull": 3,
                     "arnaucaballe": 4,
-                    "cristiansanchezvidales": 2
+                    "cristiansanchezvidales": 3
                 },
                 "backlog": 0,
-                "ready": 1,
+                "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 32,
+                "done": 33,
                 "total_issues": 77,
                 "total_issues_with_type": 59,
                 "total_features": 11,

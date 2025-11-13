@@ -60,7 +60,7 @@
             "arebull": 2,
             "arnaucaballe": 5,
             "cristiansanchezvidales": 3,
-            "non_assigned": 52
+            "non_assigned": 53
         },
         "closed": {
             "andreagil5647": 11,
@@ -71,7 +71,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 37,
-        "total": 73
+        "total": 74
     },
     "project": {
         "has_iterations": true,

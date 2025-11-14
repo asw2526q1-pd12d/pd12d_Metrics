@@ -56,17 +56,17 @@
     },
     "issues": {
         "assigned": {
-            "andreagil5647": 39,
+            "andreagil5647": 40,
             "arebull": 11,
-            "arnaucaballe": 19,
-            "cristiansanchezvidales": 3,
-            "non_assigned": 5
+            "arnaucaballe": 21,
+            "cristiansanchezvidales": 4,
+            "non_assigned": 1
         },
         "closed": {
-            "andreagil5647": 39,
+            "andreagil5647": 40,
             "arebull": 11,
-            "arnaucaballe": 19,
-            "cristiansanchezvidales": 3
+            "arnaucaballe": 21,
+            "cristiansanchezvidales": 4
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,

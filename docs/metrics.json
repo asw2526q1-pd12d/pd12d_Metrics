@@ -60,7 +60,7 @@
             "arebull": 11,
             "arnaucaballe": 22,
             "cristiansanchezvidales": 4,
-            "non_assigned": 6
+            "non_assigned": 7
         },
         "closed": {
             "andreagil5647": 40,
@@ -71,7 +71,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 77,
-        "total": 83
+        "total": 84
     },
     "project": {
         "has_iterations": true,
@@ -304,7 +304,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 4,
+                "total_issues": 5,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
@@ -314,7 +314,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 4
+                "total": 5
             },
             "total": {
                 "assigned_per_member": {
@@ -359,7 +359,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 60,
-                "total_issues": 83,
+                "total_issues": 84,
                 "total_issues_with_type": 78,
                 "total_features": 11,
                 "total_tasks": 61,
@@ -369,7 +369,7 @@
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 11,
-                "total": 83
+                "total": 84
             }
         }
     },

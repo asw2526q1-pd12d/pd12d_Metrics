@@ -44,7 +44,7 @@
     "commit_streak": {
         "andreagil5647": 0,
         "arebull": 0,
-        "arnaucaballe": 1,
+        "arnaucaballe": 0,
         "cristiansanchezvidales": 0
     },
     "commit_merges": 70,
@@ -57,20 +57,20 @@
     "issues": {
         "assigned": {
             "andreagil5647": 40,
-            "arebull": 11,
+            "arebull": 12,
             "arnaucaballe": 22,
             "cristiansanchezvidales": 4,
-            "non_assigned": 15
+            "non_assigned": 14
         },
         "closed": {
             "andreagil5647": 40,
-            "arebull": 11,
+            "arebull": 12,
             "arnaucaballe": 22,
             "cristiansanchezvidales": 4
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 77,
+        "total_closed": 78,
         "total": 92
     },
     "project": {

@@ -8,11 +8,11 @@
     },
     "commits": {
         "andreagil5647": 52,
-        "arebull": 15,
+        "arebull": 16,
         "arnaucaballe": 25,
         "cristiansanchezvidales": 5,
         "anonymous": 1,
-        "total": 98
+        "total": 99
     },
     "modified_lines": {
         "andreagil5647": {
@@ -21,9 +21,9 @@
             "modified": 44310
         },
         "arebull": {
-            "additions": 3994,
-            "deletions": 3733,
-            "modified": 7727
+            "additions": 4013,
+            "deletions": 3735,
+            "modified": 7748
         },
         "arnaucaballe": {
             "additions": 1401,
@@ -36,18 +36,18 @@
             "modified": 173
         },
         "total": {
-            "additions": 48028,
-            "deletions": 5814,
-            "modified": 53842
+            "additions": 48047,
+            "deletions": 5816,
+            "modified": 53863
         }
     },
     "commit_streak": {
         "andreagil5647": 0,
-        "arebull": 0,
+        "arebull": 1,
         "arnaucaballe": 1,
         "cristiansanchezvidales": 0
     },
-    "commit_merges": 71,
+    "commit_merges": 72,
     "longest_commit_streak_per_user": {
         "andreagil5647": 3,
         "arebull": 2,

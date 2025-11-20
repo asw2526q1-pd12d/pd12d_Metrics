@@ -47,7 +47,7 @@
         "arnaucaballe": 0,
         "cristiansanchezvidales": 0
     },
-    "commit_merges": 70,
+    "commit_merges": 71,
     "longest_commit_streak_per_user": {
         "andreagil5647": 3,
         "arebull": 2,
@@ -377,18 +377,18 @@
         "created": {
             "andreagil5647": 32,
             "arebull": 12,
-            "arnaucaballe": 18,
+            "arnaucaballe": 19,
             "cristiansanchezvidales": 7
         },
         "merged_per_member": {
             "andreagil5647": 36,
             "arebull": 11,
-            "arnaucaballe": 18,
+            "arnaucaballe": 19,
             "cristiansanchezvidales": 2
         },
-        "merged": 67,
+        "merged": 68,
         "not_merged_by_author": 24,
         "closed": 2,
-        "total": 69
+        "total": 70
     }
 }
